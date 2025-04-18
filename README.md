@@ -4,6 +4,7 @@ DESCRIPTION
 To build a dynamic pricing engine that automatically adjusts product prices based on current inventory levels and recent sales performance. The goal is to optimize pricing to respond to varying supply and demand while ensuring that each product maintains a healthy margin over cost.
 
 FILES
+
 data/products.csv: Product pricing and stock data.
 data/sales.csv: Sales performance in the past 30 days.
 pricing_engine.py: Python script applying the pricing rules.
