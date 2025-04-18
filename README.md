@@ -5,10 +5,10 @@ To build a dynamic pricing engine that automatically adjusts product prices base
 
 FILES
 
-data/products.csv: Product pricing and stock data.
-data/sales.csv: Sales performance in the past 30 days.
-pricing_engine.py: Python script applying the pricing rules.
-updated_prices.csv: Output with SKU, old price, and new price.
+1. data/products.csv: Product pricing and stock data.
+2. data/sales.csv: Sales performance in the past 30 days.
+3. pricing_engine.py: Python script applying the pricing rules.
+4. updated_prices.csv: Output with SKU, old price, and new price.
 
 PROCESSES
 1. Merges product and sales data using SKU.
